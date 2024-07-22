@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Muralikrishnan13.github.io/TODO-list",
+  "homepage": "https://Muralikrishnan13.github.io/TODO-List",
   "scripts": {
   "build": "vite build",
   "predeploy": "npm run build",
